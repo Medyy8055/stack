@@ -1,0 +1,34 @@
+button{
+  width: 3em;
+  height: 3em;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 2em;
+  margin: 0.3em;
+}
+button:hover{
+  cursor: pointer;
+}
+.wrapper{
+  background-color: rgb(182, 175, 169);
+  width: 30%;
+  border-radius: 1em;
+  padding: 1em;
+  /* margin-right: 38px; */
+  margin: auto;
+}
+.orange{
+  background-color: rgb(184, 218, 197);
+  color: white;
+}
+.grey{
+  background-color: rgb(222, 233, 231);
+  color: white;
+
+}
+.result{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 3.5em;
+}
